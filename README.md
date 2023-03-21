@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project with GraphQL.
+
+
+
+
+![screencapture-localhost](https://user-images.githubusercontent.com/55873843/226525988-634fcd51-6466-4aac-8f85-939a286e2138.png)
+
+![screencapture-localhost-3000-posts-title-2023-03-21-16_31_37](https://user-images.githubusercontent.com/55873843/226526111-3d767bee-7781-4373-b486-1ee9770e3db2.png)
+
+
+
 
 ## Getting Started
 
