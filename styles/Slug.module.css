@@ -1,0 +1,58 @@
+.blog {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5em 2rem;
+    font-family: system-ui;
+}
+
+.goBack button{
+    border: none;
+    margin: 0 0 50px 0;
+    color: rgb(154, 132, 44);
+}
+
+.goBack svg {
+    margin-top: 2px;
+}
+
+.imgContainer {
+    align-items: center;
+}
+
+.imgContainer img {
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    object-fit: cover;
+}
+
+.authorAvatar {
+    display: flex;
+}
+
+.authorAvatar img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.authorAvatar p, .authorAvatar h6 {
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    font-weight: 100;
+}
+
+.content h2 {
+    font-size: 36px;
+    margin: 20px 0;
+}
+
+.content p {
+    font-size: 1.2em;
+    line-height: 2;
+}

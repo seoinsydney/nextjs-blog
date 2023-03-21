@@ -1,0 +1,34 @@
+.card {
+    margin-bottom: 50px;
+    font-family: system-ui;
+}
+.imgContainer img {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.authorAvatar {
+    display: flex;
+}
+
+.authorAvatar img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.authorAvatar p, .authorAvatar h6 {
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    font-weight: 100;
+}
+
+/* Mobile */
+@media (max-width: 425px) {
+    .imgContainer img {
+        max-width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+}
