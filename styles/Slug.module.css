@@ -14,6 +14,7 @@
     border: none;
     margin: 0 0 50px 0;
     color: rgb(154, 132, 44);
+    cursor: pointer;
 }
 
 .goBack svg {
